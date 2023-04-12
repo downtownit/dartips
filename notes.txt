@@ -1,0 +1,13 @@
+void main() {
+  print('Hello, World!');
+}
+
+var name = 'Anderson';
+var year = 1978;
+var antenaDiameter = 3.7;
+var flyObjects = ['Jupiter', 'Saturn', 'Uranus', 'Neptune'];
+var image = {
+  'tags': ['saturn'],
+  'url':
+      '../Users/downtownit/development/flutter/cod3/dartips/images/saturn.jpg'
+};
